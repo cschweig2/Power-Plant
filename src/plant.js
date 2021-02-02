@@ -28,7 +28,7 @@ const storeState = () => {
       })
     }
   }
-
+ 
   // We create four functions using our function factory. We could easily create many more.
 
   const feed = changeState("soil")(1);
