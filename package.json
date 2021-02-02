@@ -2,7 +2,7 @@
   "name": "build-template",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "plant.js",
   "scripts": {
     "build": "webpack --mode development",
     "start": "npm run build & webpack-dev-server --open --mode development",

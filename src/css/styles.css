@@ -1,4 +1,32 @@
 h1 {
-  color: rgb(18, 82, 165);
+  color: rgb(26, 67, 121);
+  text-align: center;
+}
+
+.jumbotron {
+  background: none;
+  height: 20%;
+}
+
+h2, h3 {
+  color: rgb(4, 78, 35);
+  text-align: center;
+}
+
+body {
+  background-image: url("../assets/images/garden.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.btn {
+  cursor: grab;
+}
+
+.grow-buttons {
+  padding: 25px;
+}
+
+.card-body {
   text-align: center;
 }
