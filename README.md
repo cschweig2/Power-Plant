@@ -1,8 +1,8 @@
-# Title of Project
+# Power Plant
 
-#### What this project is, Last Updated 11.06.2020
+#### Practice Project, Last Updated 2.3.2021
 
-#### **By Chelsea Becker**
+#### **By Chelsea Becker, Jeff Chiu, and Garrett D Brown**
 
 ## Description
 
